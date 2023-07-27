@@ -5,12 +5,28 @@
     <link>https://sjamieson.github.io/authors/levi-cai/</link>
       <atom:link href="https://sjamieson.github.io/authors/levi-cai/index.xml" rel="self" type="application/rss+xml" />
     <description>Levi Cai</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 Stewart Jamieson</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2023 Stewart Jamieson</copyright><lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Levi Cai</title>
       <link>https://sjamieson.github.io/authors/levi-cai/</link>
     </image>
+    
+    <item>
+      <title>Robot Goes Fishing: Rapid, High-Resolution Biological Hotspot Mapping in Coral Reefs with Vision-Guided Autonomous Underwater Vehicles</title>
+      <link>https://sjamieson.github.io/publication/yang-2023/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://sjamieson.github.io/publication/yang-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CUREE: A Curious Underwater Robot for Ecosystem Exploration</title>
+      <link>https://sjamieson.github.io/publication/girdhar-2023/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://sjamieson.github.io/publication/girdhar-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Streaming Scene Maps for Co-Robotic Exploration in Bandwidth Limited Environments</title>
